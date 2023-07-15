@@ -100,7 +100,7 @@ flex-wrap: wrap;
 .tov1{
     width: 300px;
     height: 400PX;
-    background: url(/img-shop/t-shirt.png);
+    background: url(./img-shop/t-shirt.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -114,7 +114,7 @@ flex-wrap: wrap;
 .tov2{
     width: 300px;
     height: 400PX;
-    background: url(/img-shop/shopper.png);
+    background: url(./img-shop/shopper.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -128,7 +128,7 @@ flex-wrap: wrap;
 .tov3{
     width: 300px;
     height: 400PX;
-    background: url(/img-shop/powerbank.png);
+    background: url(./img-shop/powerbank.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -141,7 +141,7 @@ flex-wrap: wrap;
 }.tov4{
     width: 300px;
     height: 400PX;
-    background: url(/img-shop/brelok.png);
+    background: url(./img-shop/brelok.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -155,7 +155,7 @@ flex-wrap: wrap;
 .tov5{
     width: 300px;
     height: 400PX;
-    background: url(/img-shop/Znachok.png);
+    background: url(./img-shop/Znachok.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -169,7 +169,7 @@ flex-wrap: wrap;
 .tov6{
     width: 300px;
     height: 400PX;
-    background: url(/img-shop/passportcover.png);
+    background: url(./img-shop/passportcover.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -183,7 +183,7 @@ flex-wrap: wrap;
 .tov7{
     width: 300px;
     height: 400PX;
-    background: url(/img-shop/savemonplace.png);
+    background: url(./img-shop/savemonplace.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -197,7 +197,7 @@ flex-wrap: wrap;
 .tov8{
     width: 300px;
     height: 400PX;
-    background: url(/img-shop/matalbottle.png);
+    background: url(./img-shop/matalbottle.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -211,7 +211,7 @@ flex-wrap: wrap;
 .tov9{
     width: 300px;
     height: 400PX;
-    background: url(/img-shop/cap.png);
+    background: url(./img-shop/cap.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
